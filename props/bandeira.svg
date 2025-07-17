@@ -9,7 +9,7 @@
    viewBox="0 0 5291.3384 3401.5747"
    sodipodi:docname="bandeira.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="bandeira-skewed.pdf"
+   inkscape:export-filename="bandeira.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -22,7 +22,7 @@
     <color-profile
        name="Artifex-PS-CMYK-Profile"
        xlink:href="file:///usr/share/color/icc/ghostscript/gray_to_k.icc"
-       id="color-profile3738" />
+       id="color-profile3747" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2">
@@ -238,14 +238,14 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
      inkscape:zoom="0.10969678"
-     inkscape:cx="2643.651"
+     inkscape:cx="2342.8217"
      inkscape:cy="1704.6991"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g111"
+     inkscape:current-layer="g1"
      showgrid="false">
     <inkscape:page
        x="0"
@@ -665,23 +665,23 @@
       <g
          id="g110"
          transform="matrix(31.378747,0,0,31.378747,-4585.3622,-14389.156)"
-         style="display:inline"
+         style="display:inline;stroke:none"
          inkscape:label="Logo">
         <path
            sodipodi:nodetypes="ccccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path108"
            d="m 170,477.36218 h 5 v -5 h 30 v 15 h 5 v -15 h 35 v 10 h 5 v -10 h 50 v 5 h 5 v 50 h -5 v 5 h -40 v 5 h -25 v -5 h -60 v -5 h -5 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path109"
            d="m 175,477.36218 h 25 v 15 h 15 v -15 h 25 v 10 h 15 v -10 h 45 v 50 h -40 v 5 h -25 v -5 h -60 z"
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            d="m 260,522.36218 h 35 v -15 h -15 v 10 h -5 v -30 h 5 v 10 h 15 v -15 h -35 v 40 m -40,-40 v 40 h 15 v -20 h 5 v 25 h 15 v -35 h -20 v -10 h -15 v 40 0 m -40,-40 v 40.00001 h 35 v -25.00001 h -15 v 20 h -5 v -35 z"
-           style="fill:#00bd00 icc-color(Artifex-PS-CMYK-Profile, 1, 0, 1, 0.49);fill-opacity:1;stroke:#00bd00 icc-color(Artifex-PS-CMYK-Profile, 1, 0, 1, 0.49);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#00bd00 icc-color(Artifex-PS-CMYK-Profile, 1, 0, 1, 0.49);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path110" />
       </g>
     </g>
@@ -787,27 +787,27 @@
        id="g7429"
        inkscape:label="Art Only, Skewed"
        transform="translate(-13.547384,248.00033)"
-       style="display:inline">
+       style="display:inline;stroke:none">
       <g
          id="g7427"
          transform="matrix(30.528292,-7.2559753,7.2559753,30.528292,-8028.5067,-12160.179)"
-         style="display:inline"
+         style="display:inline;stroke:none"
          inkscape:label="Logo">
         <path
            sodipodi:nodetypes="ccccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path7421"
            d="m 170,477.36218 h 5 v -5 h 30 v 15 h 5 v -15 h 35 v 10 h 5 v -10 h 50 v 5 h 5 v 50 h -5 v 5 h -40 v 5 h -25 v -5 h -60 v -5 h -5 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path7423"
            d="m 175,477.36218 h 25 v 15 h 15 v -15 h 25 v 10 h 15 v -10 h 45 v 50 h -40 v 5 h -25 v -5 h -60 z"
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            d="m 260,522.36218 h 35 v -15 h -15 v 10 h -5 v -30 h 5 v 10 h 15 v -15 h -35 v 40 m -40,-40 v 40 h 15 v -20 h 5 v 25 h 15 v -35 h -20 v -10 h -15 v 40 0 m -40,-40 v 40.00001 h 35 v -25.00001 h -15 v 20 h -5 v -35 z"
-           style="fill:#00bd00 icc-color(Artifex-PS-CMYK-Profile, 1, 0, 1, 0.49);fill-opacity:1;stroke:#00bd00 icc-color(Artifex-PS-CMYK-Profile, 1, 0, 1, 0.49);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#00bd00 icc-color(Artifex-PS-CMYK-Profile, 1, 0, 1, 0.49);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path7425" />
       </g>
     </g>
